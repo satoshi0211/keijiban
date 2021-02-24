@@ -1,0 +1,140 @@
+body{font-family: "hiragino Kaku Gothic ProN","メイリオ",sans-serif;
+}
+
+.logo1 img {
+    width: 350px
+}
+
+
+header {
+    width: 100%;
+    height: 60px;
+    background-color:black;       
+}
+
+header ul {
+    list-style-type: none;
+    line-height: 20px;
+}
+
+header ul li {
+    float:left;
+    list-style:  none;
+    line-height: 60px;
+    font-size: 20px;
+    margin-left: 3px;
+    padding-right: 50px;
+    color:white;
+}
+
+li.top {margin-left: 60px; }
+
+.nyuryoku { margin: 0 auto;
+    margin-left: 10px;
+    margin-top:20px;
+    border-left:3px red solid;
+    padding-top:2px;
+    padding-bottom:1px;
+    padding-left:3px;
+    width:100%;
+    font-size:18px;
+    font-weight: bold;
+}
+
+form{margin:left;
+    background-color:#fbfbfb;
+    border:3px #ebebeb solid;
+    border-radius: 10px;
+    width:100%;
+}
+
+form div{
+    padding:5px;
+}
+
+.text, textarea, .dropdown{
+    border:1px solid #dfdfdf;
+    padding:5px;
+    color: #999;
+    background: #fff;
+}
+
+.submit{
+    border:1px solid lightgray;
+    padding: 4px 10px;
+    color:white;
+    background-color:#bfbfbf;
+    border-radius: 5px;
+    border^bottom: solid 2px gray;
+}
+
+main{
+    clear:both;
+}
+
+.main-container{
+    width:80%;
+    margin: 0 auto;
+    margin-top:50px;
+}
+
+.left{float: left;
+    width:65%;   
+}
+
+.right{float: right;
+    width:30%;
+}
+
+h1 {
+    padding: : .25em 0 0 .5em;
+    border-left:  5px solid black;
+    border-bottom: 1px solid lightgray;
+    padding-left: 10px;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.text1 {
+    font-size:20px;
+}
+
+
+
+
+h2 {
+    padding: : .25em 0 0 .5em;
+    border-bottom: 1px dotted black;
+    font-weight: bold;
+}
+
+.right ul li{
+    list-style-type: none
+}
+
+
+
+footer{
+    clear: both;
+    margin-top: 60px;
+    width: 100%;
+    height: 60px;
+    color: white;
+    background-color: black;
+    text-align: center;
+    line-height: 60px;
+}
+
+.toukou{margin: 15px;
+    background-color:#fbfbfb;
+    border:3px #ebebeb solid;
+    border-radius: 10px;
+    width:100%;
+    padding: 10px;
+}
+
+h3 {
+    padding: 10px;
+    border-bottom: 1px solid #ebebeb;
+    font-weight: bold;
+    margin: 10px;
